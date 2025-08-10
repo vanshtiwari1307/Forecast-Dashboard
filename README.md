@@ -39,5 +39,5 @@ Let’s connect and grow together in the world of hashtag#Data.<br>
 <br>
 <br>
 Screenshot:<br>
-Show what the dashboard looks like. - ![Alt text](https://github.com/vanshtiwari1307/Forecast-Dashboard/blob/main/Weather%20Forecast.png)
-Example. - ![Dashboard Preview].(https://github.com/vanshtiwari1307/Forecast-Dashboard/blob/main/Weather%20Forecast.png)
+Show what the dashboard looks like. - ![Alt text](<img width="1272" height="712" alt="Image" src="https://github.com/user-attachments/assets/ce3b5a99-9f7e-40f0-925a-32afdfd5cddc" />)
+Example. - ![Dashboard Preview].(<img width="1272" height="712" alt="Image" src="https://github.com/user-attachments/assets/ce3b5a99-9f7e-40f0-925a-32afdfd5cddc" />)
