@@ -38,5 +38,6 @@ Let’s connect and grow together in the world of hashtag#Data.<br>
 #PowerBI #DataAnalytics #DataVisualization #WeatherForecast #BusinessIntelligence #Analytics #DataDriven #DataScience #DataAnalyst #DashboardDesign #PowerQuery #MicrosoftPowerBI #DataProject #PortfolioProject<br>
 <br>
 <br>
-Demo:<br>
-https://github.com/vanshtiwari1307/Forecast-Dashboard/blob/main/Weather%20Forecast.png
+Screenshot:<br>
+Show what the dashboard looks like. - ![Alt text](https://github.com/vanshtiwari1307/Forecast-Dashboard/blob/main/Weather%20Forecast.png)
+Example. - ![Dashboard Preview].(https://github.com/vanshtiwari1307/Forecast-Dashboard/blob/main/Weather%20Forecast.png)
