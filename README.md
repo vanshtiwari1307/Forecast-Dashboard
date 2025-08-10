@@ -39,5 +39,5 @@ Let’s connect and grow together in the world of hashtag#Data.<br>
 <br>
 <br>
 Screenshot:<br>
-Show what the dashboard looks like. - (<img width="1272" height="712" alt="Image" src="https://github.com/user-attachments/assets/ce3b5a99-9f7e-40f0-925a-32afdfd5cddc" />)
+Show what the dashboard looks like. - <img width="1272" height="712" alt="Image" src="https://github.com/user-attachments/assets/ce3b5a99-9f7e-40f0-925a-32afdfd5cddc" />
 
